@@ -1,7 +1,7 @@
 # Hackers Comunity
 ### Comunidad de Porgramadores
 
-COmunidad hecha por: [BryanGuevara](https://github.com/BryanGuevara)
+Comunidad hecha por: [BryanGuevara](https://github.com/BryanGuevara)
 
 ¡Bienvenidos a la Comunidad de Programadores! Este es un espacio colaborativo para entusiastas, profesionales y aficionados apasionados por el mundo de la programación, donde puedes dar y recibir ayuda con proyectos, colaborar en nuevas ideas y, de vez en cuando, construir proyectos desde cero.
 
