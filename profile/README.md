@@ -24,7 +24,7 @@ Nuestra misión es simple: fomentar un ambiente de apoyo mutuo donde los program
 
 ¡Todos son bienvenidos a unirse y contribuir a nuestra comunidad! Aquí hay algunas formas de participar:
 
-- **Únete al Discord**: Antes de participar en la comunidad, te invitamos a unirte a nuestro servidor de Discord [aquí]().
+- **Únete al Discord**: Antes de participar en la comunidad, te invitamos a unirte a nuestro servidor de Discord [aquí](https://discord.com/invite/SkXGzRV5Ft).
 - **Participa en Proyectos**: Únete a proyectos existentes o inicia los tuyos propios. Todos los niveles de experiencia son bienvenidos.
 - **Ofrece Ayuda**: Ayuda a otros miembros de la comunidad respondiendo preguntas, ofreciendo consejos y compartiendo tu experiencia.
 - **Colabora en Proyectos Comunitarios**: De vez en cuando, trabajaremos juntos en proyectos desde cero. ¡Únete y aporta tus ideas!
@@ -37,4 +37,4 @@ Para mantener un ambiente respetuoso y acogedor para todos los miembros, todos e
 
 ## Contacto
 
-unirte a nuestro servidor de Discord [aquí]().
+unirte a nuestro servidor de Discord [aquí](https://discord.com/invite/SkXGzRV5Ft).
